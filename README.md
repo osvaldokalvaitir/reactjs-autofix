@@ -45,3 +45,5 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 ### Bibliotecas
 
 - [Create React App](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md)
+
+- [Husky](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/husky.md)
