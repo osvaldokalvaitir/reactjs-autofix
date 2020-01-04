@@ -46,4 +46,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [Create React App](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md)
 
+- [ESLint](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/eslint.md)
+
 - [Husky](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/husky.md)
+
+- [lint-staged](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/lint-staged.md)

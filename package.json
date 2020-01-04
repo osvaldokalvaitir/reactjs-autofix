@@ -4,8 +4,11 @@
   "private": true,
   "husky": {
     "hooks": {
-      "pre-commit": "echo 'teste'"
+      "pre-commit": "lint-staged"
     }
+  },
+  "lint-staged": {
+    "*.js": ["eslint --fix", "git add"]
   },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -37,6 +40,13 @@
     ]
   },
   "devDependencies": {
-    "husky": "^3.1.0"
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-import": "2.18.2",
+    "eslint-plugin-jsx-a11y": "6.2.3",
+    "eslint-plugin-react": "7.14.3",
+    "eslint-plugin-react-hooks": "1.7.0",
+    "husky": "^3.1.0",
+    "lint-staged": "^9.5.0"
   }
 }
