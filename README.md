@@ -1,55 +1,57 @@
-# ReactJS - Autofix
+<h1 align="center">
+    <img src="/.github/assets/logo.png"
+    width="200px"
+    alt="Logo" />
+</h1>
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/reactjs-autofix/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/reactjs-autofix.svg)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/reactjs-autofix.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-autofix.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/reactjs-autofix.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/reactjs-autofix.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/reactjs-autofix.svg?color=blueviolet)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+<h3 align="center">
+  ReactJS - Autofix
+</h3>
 
-Aplicação Autofix usando Husky, lint-staged, ESLint e cross-over.
+<p align="center">
+  :dog: Autofix Application using Husky, lint-staged, ESLint and cross-over
+</p>
 
-## Índice
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osvaldokalvaitir/reactjs-autofix.svg?color=00A83A">
 
-- [Desenvolvimento](#desenvolvimento)
+  <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-autofix.svg?color=00A83A">
 
-  - [Configuração do Ambiente](#configuração-do-ambiente)
+  <a href="https://kalvaitir.com/">
+    <img alt="Made by Kalvaitir" src="https://img.shields.io/badge/made%20by-Kalvaitir-00A83A">
+  </a>
 
-  - [Instalação do Projeto](#instalação-do-projeto)
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-00A83A">
+</p>
 
-  - [Execução do Projeto](#execução-do-projeto)
+<p align="center">
+  <a href="#wrench-install-and-run">Install and run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#memo-license">License</a>
+</p>
 
-- [Utilizados no Projeto](#utilizados-no-projeto)
+## :wrench: Install and run
 
-  - [Bibliotecas](#bibliotecas)
+Open terminal:
 
-## Desenvolvimento
+```sh
+# Clone this repo
+git clone https://github.com/osvaldokalvaitir/reactjs-autofix
 
-### Configuração do Ambiente
+# Entry in folder
+cd reactjs-autofix
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configuração de Ambiente`.
+# Install deps with npm or yarn
+npm install | yarn
 
-### Instalação do Projeto
+# Launch the app with npm or yarn
+npm start | yarn start
+```
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
+## :memo: License
 
-### Execução do Projeto
+This project is under the MIT license. See [LICENSE](/LICENSE) for more information.
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md) e siga `Execução de Projeto para Desenvolvimento` ou `Construção e Execução de Projeto para Produção`.
+---
 
-## Utilizados no Projeto
-
-### Bibliotecas
-
-- [Create React App](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md)
-
-- [cross-env](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/cross-env.md)
-
-- [ESLint](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/eslint.md)
-
-- [Husky](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/husky.md)
-
-- [lint-staged](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/lint-staged.md)
+<p align="center">
+Developed with 💚 by <a href="https://www.linkedin.com/in/osvaldokalvaitir">Osvaldo Kalvaitir Filho</a>
+</p>
